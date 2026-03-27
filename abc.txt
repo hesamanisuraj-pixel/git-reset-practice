@@ -1,1 +1,2 @@
 hello git revert
+New content after revert
